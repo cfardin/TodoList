@@ -46,7 +46,7 @@ export default function TodoList() {
 
 
   return (
-    <div className="to-do">
+    <div className="to-do container">
       <h1>TodoList</h1>
 
       <div className="input-box">
